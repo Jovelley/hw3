@@ -13,7 +13,7 @@
    ./run.sh report_server
 Ссылка: http://localhost:8080/report.html
 
-##Ссылки на документыцию
+##Ссылки на документацию
 https://docs.docker.com/engine/storage/bind-mounts/
 https://docs.docker.com/reference/cli/docker/container/run/
 https://purpleschool.ru/knowledge-base/docker/compose/ports
